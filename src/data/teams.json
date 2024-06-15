@@ -1,84 +1,81 @@
 {
     "teams": [
         {
-            "cover": "/teams/Arsenal.png", 
-            "title": "Arsenal"
+            "cover": "/teams/B. M'gladbach.png", 
+            "title": "B. M'gladbach"
         }, 
         {
-            "cover": "/teams/AstonVilla.png", 
-            "title": "Aston-Villa"
+            "cover": "/teams/FcBayern.png", 
+            "title": "FC Bayern"
         },
         {
-            "cover": "/teams/Bournemouth.png", 
-            "title": "Bournemouth"
+            "cover": "/teams/DARMSTADT.png", 
+            "title": "Darmstadt"
         },
         {
-            "cover": "/teams/Brentford.png", 
-            "title": "Brentford"
+            "cover": "/teams/BVB.png", 
+            "title": "Dortmund"
         },
         {
-            "cover": "/teams/Brighton.png", 
-            "title": "Brighton"
+            "cover": "/teams/dusseldorf.png", 
+            "title": "Düsseldorf"
         },
         {
-            "cover": "/teams/Chelsea.png", 
-            "title": "Chelsea"
+            "cover": "/teams/EINTRACHT FRANKFURT.png", 
+            "title": "Eintracht Frankfurt"
         },
         {
-            "cover": "/teams/CrystalPalace.png", 
-            "title": "Crystal-Palace"
+            "cover": "/teams/fcausburg.png", 
+            "title": "FC Ausburg"
         }, 
         {
-            "cover": "/teams/Everton.png", 
-            "title": "Everton"
+            "cover": "/teams/Fckoln.png", 
+            "title": "FC Köln"
         },
         {
-            "cover": "/teams/Fulham.png", 
-            "title": "Fulham"
+            "cover": "/teams/1._FC_Union_Berlin_Logo.png", 
+            "title": "FC Union Berlin"
         },
         {
-            "cover": "/teams/LeedsUnited.png", 
-            "title": "Leeds-United"
+            "cover": "/teams/FSV_Mainz_05_Logo.png", 
+            "title": "FSV Mainz 05"
         },
         {
-            "cover": "/teams/LeicesterCity.png", 
-            "title": "Leicester-City"
+            "cover": "/teams/1._FC_Heidenheim_1846.svg.png", 
+            "title": "FC Heidenheim 1846"
         },
         {
-            "cover": "/teams/Liverpool.png", 
-            "title": "Liverpool"
+            "cover": "/teams/hoffenheim.png", 
+            "title": "Hoffenheim"
         },
         {
-            "cover": "/teams/ManchesterCity.png", 
-            "title": "Manchester-City"
+            "cover": "/teams/Leverkusen.png", 
+            "title": "Bayer 04 Leverkusen"
         },
         {
-            "cover": "/teams/ManchesterUnited.png", 
-            "title": "Manchester-United"
+            "cover": "/teams/RBLeipzig.png", 
+            "title": "RB Leipzig"
         },
         {
-            "cover": "/teams/Newcastle.png", 
-            "title": "Newcastle"
+            "cover": "/teams/SCFreiburg.png", 
+            "title": "SC Freiburg"
         },
         {
-            "cover": "/teams/NottinghamForest.png", 
-            "title": "Nottingham-Forest"
+            "cover": "/teams/VFB.png", 
+            "title": "VFB Stuttgart"
         },
         {
-            "cover": "/teams/Southampton.png", 
-            "title": "Southampton"
+            "cover": "/teams/VFL.png", 
+            "title": "VFL Bochum"
         },
         {
-            "cover": "/teams/Tottenham.png", 
-            "title": "Tottenham"
+            "cover": "/teams/Wolfsburg.png", 
+            "title": "VFL Wolfsburg"
         },
         {
-            "cover": "/teams/WestHam.png", 
-            "title": "West-Ham"
-        },
-        {
-            "cover": "/teams/Wolves.png", 
-            "title": "Wolves"
+            "cover": "/teams/Bremen.png", 
+            "title": "Wereder-Bremen"
         }
+  
     ]
 }
